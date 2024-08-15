@@ -13,9 +13,14 @@
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -34,7 +39,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.simoncheam.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.simoncheam.com-blue?style=flat-square&logo=google-chrome"></a>
